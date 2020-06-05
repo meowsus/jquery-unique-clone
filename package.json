@@ -3,7 +3,11 @@
   "version": "2.0.0",
   "description": "Like `$(element).clone()` but with unique IDs",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "kind-of": "~6.0.3",
+    "minimist": "~1.2.3",
+    "set-value": "~2.0.1"
+  },
   "devDependencies": {
     "chai": "^4.1.2",
     "expect.js": "^0.3.1",
