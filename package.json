@@ -6,7 +6,7 @@
   "dependencies": {
     "kind-of": "~6.0.3",
     "minimist": "~1.2.3",
-    "set-value": "~2.0.1"
+    "set-value": "~4.0.1"
   },
   "devDependencies": {
     "chai": "^4.1.2",
